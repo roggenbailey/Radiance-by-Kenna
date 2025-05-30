@@ -210,7 +210,7 @@ section h2 {
 
 
 /* MOBILE STYLE */
-@media (max-width: 600px) {
+@media (max-width: 912px) {
   .square-booking-wrapper {
     padding: 10px;
     margin: 20px 10px;
